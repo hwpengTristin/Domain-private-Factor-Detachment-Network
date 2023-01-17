@@ -73,6 +73,11 @@ LAMP-HQ NIR-VIS的ten fold测试集路径:
 # Reference
 [1] Weipeng Hu, Haifeng Hu, Domain-private Factor Detachment Network for NIR-VIS Face Recognition, IEEE Trans. on Information Forensics and Security, vol. 17, pp. 1435-1449, 2022. DOI:  10.1109/TIFS.2022.3160612
 
+# Some related works
+[1] Weipeng Hu, Wenjun Yan, Haifeng Hu, Dual Face Alignment Learning Network for NIR-VIS Face Recognition, IEEE Trans. on Circuits and Systems for Video Technology, vol.32, no.4, pp.2411-2424, 2022. DOI:  10.1109/TCSVT.2021.3081514
+[2] Weipeng Hu, Haifeng Hu, Dual Adversarial Disentanglement and Deep Representation Decorrelation for NIR-VIS Face Recognition, IEEE Trans. on Information Forensics and Security, vol.16, no.1, pp.70-85, 2020. DOI: 10.1109/TIFS.2020.3005314
+
+
 # Note
 Part of our code is based on Github's open source project (https://github.com/davidsandberg/facenet).
 
