@@ -4,7 +4,7 @@ We propose a novel Domain-private Factor Detachment (DFD) network to disentangle
 # DFD代码说明
 
 环境：python 3.6; tensorflow 1.3.0
-# # 1.	测试与测试一体
+# # 1. 训练与测试一体
 运行指令：python DFD_method.py
 实验结果：
 CASIA NIR-VIS 2.0（first fold）数据集，测试结果Cosine distance度量的Rank-1 准确率为99.4%左右。如下截图： 
