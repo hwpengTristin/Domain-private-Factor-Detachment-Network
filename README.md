@@ -8,5 +8,6 @@ We propose a novel Domain-private Factor Detachment (DFD) network to disentangle
 运行指令：python DFD_method.py
 实验结果：
 CASIA NIR-VIS 2.0（first fold）数据集，测试结果Cosine distance度量的Rank-1 准确率为99.4%左右。如下截图： 
+
 ![image](https://user-images.githubusercontent.com/29362830/212851276-e6a782d1-cb8e-4a72-8352-5876fa31fdaf.png)
 ![image](https://user-images.githubusercontent.com/29362830/212851316-c147b611-1977-4d77-addd-56bbda3ac62b.png)
