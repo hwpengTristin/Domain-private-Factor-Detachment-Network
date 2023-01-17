@@ -16,20 +16,15 @@ CASIA NIR-VIS 2.0（first fold）数据集，测试结果Cosine distance度量�
 
 # # 2.	文件夹内容说明
 ----DFD
-
-	----Experiments_Results (文件夹说明：实验结果的log记录)
 	----src (文件夹说明：主要程序目录)
-	
 ----requirements.txt (文件说明：跑该代码时的python库环境，忽视不必要的库)
 		----logs (文件夹说明：跑代码过程产生的log记录保存路径)
 		----models (文件夹说明：跑代码过程保存的模型路径)
-		
 ----Resnet50_CBAM_xxx_20201013 (文件夹说明：加载的预训练模型)
 			----models.py (文件说明：网络结构定义)
 		----DFD_method.py (文件夹说明：main函数，训练和测试一体的main函数)
 		----facenet.py (文件夹说明：main函数中调用的部分函数，在此文件定义)
 		----lfw.py (文件夹说明：lfw测试代码，在此文件定义)
-		
 ----NewPaper_validate_on_CASIA_NIR_VIS_2_0_Rank_1_speedup.py (文件夹说明：跨模态数据库测试代码，在此文件定义)
 
 # # 3.	数据集路径说明
