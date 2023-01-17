@@ -1,0 +1,7 @@
+arguments: /home/hwpeng/ProjectHWPeng/SharedCodeModel/Papers_Publish_Code/DFD_TIFS2021/src/DFD_method.py
+--------------------
+tensorflow version: 1.3.0
+--------------------
+git hash: b''
+--------------------
+b''
