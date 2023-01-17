@@ -92,7 +92,9 @@ LAMP-HQ NIR-VIS的ten fold测试集路径:
 # Some related works
 [1] Weipeng Hu, Wenjun Yan, Haifeng Hu, Dual Face Alignment Learning Network for NIR-VIS Face Recognition, IEEE Trans. on Circuits and Systems for Video Technology, vol.32, no.4, pp.2411-2424, 2022. DOI:  10.1109/TCSVT.2021.3081514
 
-[2] Weipeng Hu, Haifeng Hu, Dual Adversarial Disentanglement and Deep Representation Decorrelation for NIR-VIS Face Recognition, IEEE Trans. on Information Forensics and Security, vol.16, no.1, pp.70-85, 2020. DOI: 10.1109/TIFS.2020.3005314
+[2]  Weipeng Hu, Haifeng, Hu, Orthogonal Modality Disentanglement and Representation Alignment Network for NIR-VIS Face Recognition, IEEE Trans. on Circuits and Systems for Video Technology, vol.32, no.6, pp.3630-3643, 2022.![image](https://user-images.githubusercontent.com/29362830/212879558-14fd6da6-e5c1-4c7e-ac69-95db723bd095.png)
+
+[3] Weipeng Hu, Haifeng Hu, Dual Adversarial Disentanglement and Deep Representation Decorrelation for NIR-VIS Face Recognition, IEEE Trans. on Information Forensics and Security, vol.16, no.1, pp.70-85, 2020. DOI: 10.1109/TIFS.2020.3005314
 
 
 # Note
