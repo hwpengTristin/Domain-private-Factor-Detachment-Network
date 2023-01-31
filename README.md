@@ -4,14 +4,13 @@ We propose a novel Domain-private Factor Detachment (DFD) network to disentangle
 # DFD代码说明
 
 环境：python 3.6; tensorflow 1.3.0
+
+The pretrained model is released as follow:
+Link: https://pan.baidu.com/s/133QLNTn9SiQ0CLqg_IsE4g
+Extraction Code: 0131
+
 # # 1. 训练与测试一体
 运行指令：python DFD_method.py
-
-# # #The pretrained model is released as follow:
-
-Link: https://pan.baidu.com/s/133QLNTn9SiQ0CLqg_IsE4g
-
-Extraction Code: 0131
 
 实验结果：
 
